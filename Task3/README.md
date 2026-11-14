@@ -1,13 +1,25 @@
-# Task 3
+# Task 3: Data Analysis with Pandas
 
-This folder provides a cleaned overview for the third internship task.
+This task focuses on data analysis using Python and the Pandas library.
 
-## Project Summary
-This task demonstrates data analysis using Python and Pandas, including cleaning data, filtering, grouping, aggregation, and summarizing insights.
+## Objective
+The goal of this task was to:
+- load and inspect a dataset
+- clean missing or incorrect values
+- apply filtering, grouping, and aggregation
+- summarize insights from the data
+- present results in a clear and readable format
 
-## Related Files
-- Original uploaded project files remain under the nested folder: `task3-pythondev-main/task3-pythondev-main`
-- Output screenshots: `task3-pythondev-main/task3-pythondev-main/task3-output1.png`, `task3-output2.png`
+## What This Task Covers
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Grouping and aggregation operations
+- Interpretation of results from a dataset
 
-## Notes
-This directory was created to make the repository easier to navigate.
+## Files Included
+- Source code files
+- Supporting documentation
+- Output screenshots showing analysis results
+
+## Outcome
+This task demonstrates data analysis and problem-solving skills using Python, and highlights the ability to transform raw data into useful insights.
