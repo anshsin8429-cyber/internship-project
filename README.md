@@ -1,39 +1,49 @@
-# Internship Project Repository
+# Internship Project Portfolio
 
-This repository contains the source code, implementation notes, and output screenshots from my internship tasks.
+This repository contains my internship project work, including Python-based tasks, implementation files, and output screenshots generated during the internship.
 
 ## Overview
 
-The project is organized into three tasks, each focusing on a different Python development challenge.
+This portfolio is organized by task to make the project easy to review and present. Each task focuses on a different Python development problem and demonstrates practical coding, problem-solving, and documentation skills.
 
-## Project Structure
+## Repository Structure
 
-- [pythondev-task1-main](https://github.com/anshsin8429-cyber/internship-project/tree/main/pythondev-task1-main)
-  - Includes the Task 1 implementation, documentation, and output image.
-- [pythondev-task2-main](https://github.com/anshsin8429-cyber/internship-project/tree/main/pythondev-task2-main)
-  - Includes the Task 2 implementation, filtering/search logic, API error handling notes, and output screenshots.
-- [task3-pythondev-main](https://github.com/anshsin8429-cyber/internship-project/tree/main/task3-pythondev-main)
-  - Includes the Task 3 implementation, documentation, and output images.
+- `README.md` — project overview and repository summary
+- `Task1/` — Task 1 files and supporting documentation
+- `Task2/` — Task 2 files and supporting documentation
+- `Task3/` — Task 3 files and supporting documentation
+- Project source folders and output screenshots are included under the corresponding uploaded task directories.
 
-## Task Details
+## Included Tasks
 
-### Task 1
-- Python-based solution for the assigned internship problem.
-- Includes the main code and output image for validation.
+### Task 1: File Handling and Automation
+- Demonstrates Python file operations and automation techniques.
+- Includes file creation, reading, writing, moving, renaming, and exception handling.
+- Contains the implementation and output screenshot for the task.
 
-### Task 2
-- Covers filtering/search logic and API error handling.
-- Includes multiple output screenshots demonstrating results.
+### Task 2: API Data Handling and Error Management
+- Demonstrates API interaction using Python and the `requests` library.
+- Includes filtering/search logic and handling of API errors.
+- Contains code, documentation, and output screenshots.
 
-### Task 3
-- Final task implementation with code and result images.
+### Task 3: Data Analysis with Pandas
+- Demonstrates data cleaning, filtering, grouping, and aggregation using Python and Pandas.
+- Includes analysis tasks and output screenshots showing the results.
+
+## Purpose
+
+This repository serves as:
+- a record of internship work
+- a portfolio for review and evaluation
+- a collection of coding exercises and practical implementations
+- a reference for future learning and improvement
 
 ## Notes
 
-- The repository is maintained as a portfolio of internship work.
-- All tasks are stored in separate folders for clarity and organization.
-- The included screenshots help document the outputs of each task.
+- The project is organized by task for clarity and professional presentation.
+- Screenshots are included to document outputs and make the work easier to understand.
+- The repository can be shared with mentors, reviewers, or potential employers as evidence of technical learning and project work.
 
 ## Repository Status
 
-This repository is a working collection of internship project files and can be used for review, portfolio sharing, and future references.
+The repository is actively maintained as a portfolio of internship tasks and is intended to showcase practical Python programming and problem-solving experience.
